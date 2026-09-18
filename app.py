@@ -13,7 +13,7 @@ import secrets
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_title="Calculadora Criptográfica", page_icon="🔐", layout="wide")
+st.set_page_config(page_title="Calculadora Criptográfica", page_icon="", layout="wide")
 
 ALF27 = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ"
 ALF26 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
