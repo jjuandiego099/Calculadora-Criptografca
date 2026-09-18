@@ -13,7 +13,7 @@ import secrets
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_title="Calculadora Criptográfica", layout="wide")
+st.set_page_config(page_title="Calculadora Criptográfica",layout="wide")
 
 ALF27 = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ"
 ALF26 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
@@ -870,7 +870,7 @@ MENU = {
 st.markdown(
     """
     <div style="text-align:center; padding: 0.5rem 0 1rem 0;">
-        <h1 style="margin-bottom:0.2rem;">🔐 Calculadora Criptográfica</h1>
+        <h1 style="margin-bottom:0.2rem;"> Calculadora Criptográfica</h1>
         <p style="font-size:1.15rem; margin:0; opacity:0.8;">Juan Diego Chaparro García</p>
     </div>
     """,
